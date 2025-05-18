@@ -1,0 +1,2 @@
+This text file for demo from windows git to GITHUB repo
+commit
