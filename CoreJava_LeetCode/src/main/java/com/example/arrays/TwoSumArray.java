@@ -49,7 +49,7 @@ public class TwoSumArray {
         //Test case1: Input: nums = [2,7,11,15], target = 9
         TwoSumArray twoSumArray = new TwoSumArray();
         int[] nums =  {2,7,11,15};
-        int target = 18;
+        int target = 9;
         int result[] = twoSumArray.twoSum(nums, target);
         if(result != null){
             System.out.println("Output :: "+ Arrays.toString(result));
