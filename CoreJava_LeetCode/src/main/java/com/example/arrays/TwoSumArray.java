@@ -32,7 +32,7 @@ import java.util.Map;
  * -109 <= target <= 109
  * Only one valid answer exists.
  * */
-
+// this is the class
 public class TwoSumArray {
     public static void main(String args[]){
         // Input: nums = [2,7,11,15], target = 9
